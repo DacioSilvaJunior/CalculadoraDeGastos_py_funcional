@@ -51,16 +51,10 @@ def maior_gasto(gastos):
 
 
 def gastos_categoria(gastos):
-
-    categorias={}
-
-    for gasto in gastos:
-
-        categoria=gasto["categoria"]
-
-        categorias[categoria]=(
-            categorias.get(categoria,0)
-            + gasto["valor"]
-        )
+    return reduce(
+        lambda acc, g: {**acc, g["categoria"]: acc.get(g["categoria"], 0) + g["valor"]},
+        gastos,
+        {}
+    )
 
     return categorias

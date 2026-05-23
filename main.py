@@ -1,6 +1,4 @@
 from dados import carregar_gastos
-#eu nao deveria importar as funcoes aqui, pois isso quebra o paradigma funcional, onde as funções devem ser puras e não devem ter efeitos colaterais. O ideal seria importar as funções apenas no local onde elas são usadas, ou seja, dentro de cada função que precisa delas.
-
 from funcoes import (
     filtrar_gastos,
     aplicar_taxa,
@@ -8,36 +6,19 @@ from funcoes import (
     maior_gasto,
     gastos_categoria
 )
-
 from relatorio import gerar_relatorio
 
+# 1. Carrega os dados originais (imutáveis a partir daqui)
+gastos_brutos = carregar_gastos("gastos.csv")
 
-gastos = carregar_gastos(
-    "gastos.csv"
-)
+# 2. Transforma os dados gerando NOVAS variáveis para cada estágio
+gastos_filtrados = filtrar_gastos(gastos_brutos)
+gastos_taxados = aplicar_taxa(gastos_filtrados)
 
-gastos = filtrar_gastos(
-    gastos
-)
+# 3. Executa as operações de análise sobre o dado final processado
+total = calcular_total(gastos_taxados)
+categorias = gastos_categoria(gastos_taxados)
+maior = maior_gasto(gastos_taxados)
 
-gastos = aplicar_taxa(
-    gastos
-)
-
-total = calcular_total(
-    gastos
-)
-
-categorias = gastos_categoria(
-    gastos
-)
-
-maior = maior_gasto(
-    gastos
-)
-
-gerar_relatorio(
-    total,
-    categorias,
-    maior
-)
+# 4. Gera o output
+gerar_relatorio(total, categorias, maior)
