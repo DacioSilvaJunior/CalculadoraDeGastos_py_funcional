@@ -1,4 +1,8 @@
 #estudar uso de map, filter e reduce para o paradigma funcional
+#map: transforma cada elemento de uma coleção
+#filter: filtra elementos de uma coleção com base em uma condição
+#reduce: reduz uma coleção a um único valor, aplicando uma função cumulativa
+#lambda: função anônima, baseada em expressões, útil para funções simples e de uso único
 from functools import reduce
 
 
@@ -16,20 +20,21 @@ def filtrar_gastos(gastos):
         filter(gasto_valido,gastos)
     )
 
-
-def adicionar_taxa(gasto):
-
-    return {
-        **gasto,
-        "valor":gasto["valor"]*1.05
-    }
-
-
-def aplicar_taxa(gastos):
-
-    return list(
-        map(adicionar_taxa,gastos)
-    )
+#futuramente ajustar para aplicar taxas diferentes por categoria,
+#ou mesmo taxas progressivas
+#def adicionar_taxa(gasto):
+#    # Adiciona uma taxa fixa de 5% ao valor do gasto
+#    return {
+#        **gasto,
+#        "valor": gasto["valor"] * 1.05
+#    }
+#
+#
+#def aplicar_taxa(gastos):
+#    # Aplica a taxa a cada gasto da lista usando map
+#    return list(
+#        map(adicionar_taxa, gastos)
+#    )
 
 
 def calcular_total(gastos):

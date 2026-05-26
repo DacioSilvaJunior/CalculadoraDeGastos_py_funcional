@@ -1,4 +1,5 @@
 #esta usando paradiguima funiconal?
+#sim, apesar de nao 100%
 def gerar_relatorio(total,categorias,maior):
 
     print("\n====== RELATÓRIO ======\n")
