@@ -1,0 +1,180 @@
+data,categoria,descricao,valor
+2026-01-01,Alimentação,Supermercado Extra,347.89
+2026-01-02,Transporte,Recarga Bilhete Único,50.00
+2026-01-03,Moradia,Conta de Luz,185.40
+2026-01-04,Alimentação,Almoço no trabalho,32.50
+2026-01-05,Saúde,Farmácia (remédios),67.80
+2026-01-06,Lazer,Netflix Assinatura,39.90
+2026-01-07,Educação,Cursos Online,89.90
+2026-01-08,Transporte,Uber ao aeroporto,45.70
+2026-01-09,Alimentação,Ifood - jantar,54.20
+2026-01-10,Moradia,Aluguel,2500.00
+2026-01-11,Vestuário,Camiseta Renner,79.90
+2026-01-12,Saúde,Academia,120.00
+2026-01-13,Alimentação,Padaria - café da manhã,18.50
+2026-01-14,Transporte,Estacionamento,25.00
+2026-01-15,Alimentação,Restaurante italiano,145.00
+2026-01-16,Lazer,Show de música,180.00
+2026-01-17,Educação,Livros técnicos,210.00
+2026-01-18,Moradia,Internet,99.00
+2026-01-19,Alimentação,Mercado Carrefour,423.50
+2026-01-20,Saúde,Dentista,350.00
+2026-01-21,Transporte,Manutenção do carro,450.00
+2026-01-22,Vestuário,Tênis esportivo,289.90
+2026-01-23,Alimentação,Sorveteria,25.00
+2026-01-24,Lazer,Streaming Disney+,45.90
+2026-01-25,Alimentação,Pizzaria,89.50
+2026-01-26,Moradia,Conta de Água,75.30
+2026-01-27,Educação,Curso de idiomas,199.00
+2026-01-28,Alimentação,Lanche rápido,22.00
+2026-01-29,Transporte,Combustível,120.00
+2026-01-30,Saúde,Plano de saúde,380.00
+2026-02-01,Alimentação,Mercado Atacadão,567.80
+2026-02-02,Lazer,Cinema com amigos,72.00
+2026-02-03,Moradia,Condomínio,430.00
+2026-02-04,Alimentação,Almoço executivo,38.50
+2026-02-05,Transporte,App de mobilidade,19.90
+2026-02-06,Vestuário,Calça jeans,159.90
+2026-02-07,Saúde,Fisioterapia,150.00
+2026-02-08,Alimentação,Churrascaria,98.00
+2026-02-09,Educação,Material escolar,145.50
+2026-02-10,Lazer,Parque aquático,120.00
+2026-02-11,Alimentação,Mercadinho,89.60
+2026-02-12,Moradia,Reparos hidráulicos,280.00
+2026-02-13,Transporte,Ônibus interestadual,65.00
+2026-02-14,Alimentação,Jantar romântico,210.00
+2026-02-15,Saúde,Exames laboratoriais,180.00
+2026-02-16,Lazer,Praia (estacionamento),30.00
+2026-02-17,Alimentação,Açougue,124.30
+2026-02-18,Educação,Workshop tecnologia,350.00
+2026-02-19,Moradia,Eletrodoméstico,890.00
+2026-02-20,Vestuário,Bolsa feminina,350.00
+2026-02-21,Alimentação,Food truck,42.50
+2026-02-22,Transporte,Táxi aeroporto,82.00
+2026-02-23,Saúde,Consulta médico,250.00
+2026-02-24,Lazer,Teatro,110.00
+2026-02-25,Alimentação,Cesta básica,185.40
+2026-02-26,Moradia,IPTU,650.00
+2026-02-27,Educação,Curso Excel,79.90
+2026-02-28,Alimentação,Sushi,165.00
+2026-03-01,Alimentação,Supermercado,432.10
+2026-03-02,Transporte,Estacionamento rotativo,15.00
+2026-03-03,Lazer,Club de assinatura,29.90
+2026-03-04,Moradia,Conta de gás,48.70
+2026-03-05,Alimentação,Lanche natural,28.00
+2026-03-06,Saúde,Suplementos alimentares,95.00
+2026-03-07,Vestuário,Sapato social,199.90
+2026-03-08,Alimentação,Padaria artesanal,36.50
+2026-03-09,Educação,Plataforma Alura,89.90
+2026-03-10,Transporte,Recarga de pedágio,40.00
+2026-03-11,Alimentação,Fast food,37.90
+2026-03-12,Lazer,Aluguel de bicicleta,25.00
+2026-03-13,Moradia,Cama box,1200.00
+2026-03-14,Alimentação,Sacolão,62.30
+2026-03-15,Saúde,Óculos de grau,450.00
+2026-03-16,Educação,Curso de programação,499.00
+2026-03-17,Alimentação,Restaurante vegano,85.00
+2026-03-18,Transporte,Seguro do carro,320.00
+2026-03-19,Lazer,Cervejaria artesanal,110.00
+2026-03-20,Alimentação,Marmitaria,24.90
+2026-03-21,Moradia,Decoração,350.00
+2026-03-22,Vestuário,Casaco de inverno,450.00
+2026-03-23,Alimentação,Confeitaria,42.00
+2026-03-24,Saúde,Vacinação,89.00
+2026-03-25,Educação,Alura cursos,89.90
+2026-03-26,Transporte,Lava rápido,45.00
+2026-03-27,Alimentação,Fruteira,33.50
+2026-03-28,Lazer,Streaming Amazon Prime,19.90
+2026-03-29,Moradia,Manutenção ar condicionado,280.00
+2026-03-30,Alimentação,Padaria integral,23.00
+2026-04-01,Alimentação,Mercado Sams Club,789.40
+2026-04-02,Transporte,Ipva,1500.00
+2026-04-03,Lazer,Festival de música,250.00
+2026-04-04,Moradia,Sofá novo,1800.00
+2026-04-05,Alimentação,Almoço família,156.00
+2026-04-06,Saúde,Acupuntura,150.00
+2026-04-07,Educação,Kindle compra,499.00
+2026-04-08,Alimentação,Delivery japonês,132.00
+2026-04-09,Transporte,Manutenção preventiva,350.00
+2026-04-10,Vestuário,Moletom,129.90
+2026-04-11,Lazer,Jogos Steam,120.00
+2026-04-12,Alimentação,Cafeteria especial,38.00
+2026-04-13,Moradia,HD externo,350.00
+2026-04-14,Educação,Curso de fotografia,280.00
+2026-04-15,Saúde,Massagem terapêutica,180.00
+2026-04-16,Alimentação,Pizzaria delivery,76.50
+2026-04-17,Transporte,Uber Black,35.00
+2026-04-18,Lazer,Parque de diversões,140.00
+2026-04-19,Alimentação,Buffet livre,55.00
+2026-04-20,Moradia,Tomada inteligente,89.00
+2026-04-21,Vestuário,Bermuda praia,69.90
+2026-04-22,Alimentação,Peixaria,95.00
+2026-04-23,Educação,Revista científica,45.90
+2026-04-24,Saúde,Pilates mensal,220.00
+2026-04-25,Transporte,Trem metropolitano,12.00
+2026-04-26,Alimentação,Orgânicos feira,120.00
+2026-04-27,Lazer,Kart,95.00
+2026-04-28,Moradia,Ferramentas,230.00
+2026-04-29,Alimentação,Rotisserie,58.00
+2026-04-30,Educação,Google Certificado,1200.00
+2026-05-01,Alimentação,Supermercado,456.70
+2026-05-02,Transporte,Combustível,150.00
+2026-05-03,Lazer,Restaurante japonês,210.00
+2026-05-04,Moradia,Conta de internet,99.00
+2026-05-05,Alimentação,Café da manhã hotel,45.00
+2026-05-06,Saúde,Farmácia Drogasil,87.50
+2026-05-07,Educação,Curso Power BI,79.90
+2026-05-08,Alimentação,Subway,29.90
+2026-05-09,Transporte,Estacionamento shopping,22.00
+2026-05-10,Vestuário,Óculos de sol,199.00
+2026-05-11,Lazer,Show sertanejo,280.00
+2026-05-12,Alimentação,Hamburgueria artesanal,67.00
+2026-05-13,Moradia,Lâmpadas LED,45.00
+2026-05-14,Educação,Udemy cursos,180.00
+2026-05-15,Saúde,Consulta nutricionista,200.00
+2026-05-16,Alimentação,Mercado municipal,134.00
+2026-05-17,Transporte,Pedágio,28.50
+2026-05-18,Lazer,Boliche,89.00
+2026-05-19,Alimentação,Marmita congelada,180.00
+2026-05-20,Moradia,Material limpeza,67.00
+2026-05-21,Alimentação,Chocolate importado,35.00
+2026-05-22,Saúde,Ginástica laboral,100.00
+2026-05-23,Educação,Apostilas concurso,150.00
+2026-05-24,Transporte,Lava-jato completo,85.00
+2026-05-25,Alimentação,Comida tailandesa,112.00
+2026-05-26,Lazer,Parque estadual,25.00
+2026-05-27,Moradia,Cortinas,180.00
+2026-05-28,Alimentação,Cestão de frutas,55.00
+2026-05-29,Vestuário,Meias 6 pares,49.90
+2026-05-30,Educação,Inglês online,220.00
+2026-05-31,Alimentação,Self service,32.00
+2026-06-01,Alimentação,Assaí Atacadista,678.90
+2026-06-02,Transporte,Viação interestadual,95.00
+2026-06-03,Lazer,Clube de assinatura cerveja,89.90
+2026-06-04,Moradia,Ar condicionado novo,2100.00
+2026-06-05,Alimentação,Sanduicheria,28.50
+2026-06-06,Saúde,Creatina Whey,150.00
+2026-06-07,Educação,Domestika cursos,139.90
+2026-06-08,Alimentação,Empório dos pães,23.00
+2026-06-09,Transporte,Manutenção freios,320.00
+2026-06-10,Vestuário,Moletom adidas,299.00
+2026-06-11,Lazer,Cachoeira (ingresso),40.00
+2026-06-12,Alimentação,Galeteria,62.00
+2026-06-13,Moradia,Cadeira escritório,450.00
+2026-06-14,Educação,Curso de música,180.00
+2026-06-15,Saúde,Exame de sangue,85.00
+2026-06-16,Alimentação,Açaí,32.00
+2026-06-17,Transporte,Bicicleta nova,1200.00
+2026-06-18,Lazer,Museu exposição,35.00
+2026-06-19,Alimentação,Café colonial,65.00
+2026-06-20,Moradia,Persianas,320.00
+2026-06-21,Alimentação,Italianinho,145.00
+2026-06-22,Saúde,Dermatologista,350.00
+2026-06-23,Educação,Kindle Unlimited,19.90
+2026-06-24,Transporte,Carregador veículo,89.00
+2026-06-25,Alimentação,Pastelaria,18.00
+2026-06-26,Lazer,Aluguel stand up paddle,60.00
+2026-06-27,Moradia,Cortina blackout,150.00
+2026-06-28,Alimentação,Empada gourmet,35.00
+2026-06-29,Vestuário,Bermuda surfista,129.00
+2026-06-30,Educação,Curso produção musical,450.00
